@@ -4,9 +4,9 @@ import org.william.poointerfaces.modelo.Cliente;
 
 import java.util.List;
 
-public interface OrdenableRepository {
+public interface OrdenableRepository<T> {
 
-    List<Cliente> listar(String campo,Direcccion dir);
+    List<T> listar(String campo,Direcccion dir);
 
 
 

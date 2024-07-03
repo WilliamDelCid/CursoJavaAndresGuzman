@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CursoJavaAndresGuzman.iml" filepath="$PROJECT_DIR$/.idea/CursoJavaAndresGuzman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servidor/Servidor.iml" filepath="$PROJECT_DIR$/Servidor/Servidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appfacturas/appfacturas.iml" filepath="$PROJECT_DIR$/appfacturas/appfacturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cliente/cliente.iml" filepath="$PROJECT_DIR$/cliente/cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colecciones/colecciones.iml" filepath="$PROJECT_DIR$/colecciones/colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paquetes/paquetes.iml" filepath="$PROJECT_DIR$/paquetes/paquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_clases_abstractas/poo_clases_abstractas.iml" filepath="$PROJECT_DIR$/poo_clases_abstractas/poo_clases_abstractas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_excepciones/poo_excepciones.iml" filepath="$PROJECT_DIR$/poo_excepciones/poo_excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_interfacces/poo_interfacces.iml" filepath="$PROJECT_DIR$/poo_interfacces/poo_interfacces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_interfaces_repositorio/poo_interfaces_repositorio.iml" filepath="$PROJECT_DIR$/poo_interfaces_repositorio/poo_interfaces_repositorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooherencia/pooherencia.iml" filepath="$PROJECT_DIR$/pooherencia/pooherencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pop_sobrecarga/pop_sobrecarga.iml" filepath="$PROJECT_DIR$/pop_sobrecarga/pop_sobrecarga.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,9 +1,8 @@
 package org.william.poointerfaces.repositorio;
 
-public interface OrdenablePaginableCrudRepositorio extends
-OrdenableRepository,
-        PaginableRepositorio,
-            CrudRepository,
-        ContableRepository
-{
+public interface OrdenablePaginableCrudRepositorio<T> extends
+        OrdenableRepository<T>,
+        PaginableRepositorio<T>,
+        CrudRepository<T>,
+        ContableRepository {
 }
