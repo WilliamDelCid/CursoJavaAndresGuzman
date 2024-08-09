@@ -4,9 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CursoJavaAndresGuzman.iml" filepath="$PROJECT_DIR$/.idea/CursoJavaAndresGuzman.iml" />
       <module fileurl="file://$PROJECT_DIR$/Servidor/Servidor.iml" filepath="$PROJECT_DIR$/Servidor/Servidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_stream/api_stream.iml" filepath="$PROJECT_DIR$/api_stream/api_stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/appfacturas/appfacturas.iml" filepath="$PROJECT_DIR$/appfacturas/appfacturas.iml" />
       <module fileurl="file://$PROJECT_DIR$/cliente/cliente.iml" filepath="$PROJECT_DIR$/cliente/cliente.iml" />
       <module fileurl="file://$PROJECT_DIR$/colecciones/colecciones.iml" filepath="$PROJECT_DIR$/colecciones/colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hilos/hilos.iml" filepath="$PROJECT_DIR$/hilos/hilos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8_lambda/java8_lambda.iml" filepath="$PROJECT_DIR$/java8_lambda/java8_lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/paquetes/paquetes.iml" filepath="$PROJECT_DIR$/paquetes/paquetes.iml" />
       <module fileurl="file://$PROJECT_DIR$/poo_clases_abstractas/poo_clases_abstractas.iml" filepath="$PROJECT_DIR$/poo_clases_abstractas/poo_clases_abstractas.iml" />
       <module fileurl="file://$PROJECT_DIR$/poo_excepciones/poo_excepciones.iml" filepath="$PROJECT_DIR$/poo_excepciones/poo_excepciones.iml" />
