@@ -1,5 +1,7 @@
 package api.stream.ejemplos.models;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
 public class Usuario {
@@ -7,10 +9,14 @@ public class Usuario {
     private String nombre;
     private String apellido;
     private static int ultimoId;
+
+    private List<Factura> facturas;
+
     public Usuario(String nombre, String apellido) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.id = ++ultimoId;
+        this.facturas = new ArrayList<>();
     }
 
     public String getNombre() {
@@ -35,6 +41,15 @@ public class Usuario {
 
     public void setId(Integer id) {
         this.id = id;
+    }
+
+    public List<Factura> getFacturas() {
+        return facturas;
+    }
+
+    public void addFactura(Factura factura) {
+        this.facturas.add(factura);
+        factura.setUsuario(this);
     }
 
     @Override
